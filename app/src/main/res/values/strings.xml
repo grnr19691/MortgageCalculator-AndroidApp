@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Mortgage Calculator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="backgroundColor">#F5F5F5</color>
+
+    <color name="output">#3B5998</color>
+
+    <string name="radioButton1">15 Years</string>
+    <string name="radioButton2">20 Years</string>
+    <string name="radioButton3">30 Years</string>
+
+    <string name="button">Calculate</string>
+
+    <string name="hint">Enter Amount Here</string>
+
+    <string name="textView1">Annual Interest Rate: 10 %</string>
+
+    <string name="textView11">  0</string>
+    <string name="textView12">20</string>
+
+    <string name="radioGroupName">Loan Term</string>
+
+    <string name="outputText">Monthly Payment : </string>
+
+    <string name="checkbox">Include Monthly Taxes and Insurance</string>
+</resources>
